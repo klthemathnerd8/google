@@ -22,7 +22,7 @@
   "homepage": "https://github.com/titaniumnetwork-dev/Incognito#readme",
   "dependencies": {
     "corrosion": "^1.0.0",
-    "extract-text-webpack-plugin": "^3.0.2",
+    "extract-text-webpack-plugin": "^4.0.0", // Updated to version 4
     "fastify": "^3.21.0",
     "fastify-cookie": "^5.3.1",
     "fastify-express": "^0.3.3",
